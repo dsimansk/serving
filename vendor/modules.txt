@@ -1071,7 +1071,7 @@ knative.dev/networking/pkg/client/injection/reconciler/networking/v1alpha1/serve
 knative.dev/networking/pkg/client/listers/networking/v1alpha1
 knative.dev/networking/pkg/ingress
 knative.dev/networking/pkg/prober
-# knative.dev/pkg v0.0.0-20210628225612-51cfaabbcdf6
+# knative.dev/pkg v0.0.0-20210628225612-51cfaabbcdf6 => github.com/dsimansk/pkg v0.0.0-20210701121941-f621c111173c
 ## explicit
 knative.dev/pkg/apiextensions/storageversion
 knative.dev/pkg/apiextensions/storageversion/cmd/migrate
@@ -1194,3 +1194,4 @@ sigs.k8s.io/structured-merge-diff/v4/value
 # sigs.k8s.io/yaml v1.2.0
 ## explicit
 sigs.k8s.io/yaml
+# knative.dev/pkg => github.com/dsimansk/pkg v0.0.0-20210701121941-f621c111173c

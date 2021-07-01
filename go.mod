@@ -53,3 +53,5 @@ require (
 	knative.dev/pkg v0.0.0-20210628225612-51cfaabbcdf6
 	sigs.k8s.io/yaml v1.2.0
 )
+
+replace knative.dev/pkg => github.com/dsimansk/pkg v0.0.0-20210701121941-f621c111173c
